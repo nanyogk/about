@@ -1,2 +1,1 @@
-# about
-hosting about/index.html
+# about NanyoGK -> https://nanyogk.github.io/about/ 
